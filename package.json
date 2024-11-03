@@ -1,0 +1,28 @@
+{
+  "name": "cointocoin",
+  "version": "1.0.0",
+  "description": "This is coin to coin package which use to convert one currency to another",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parveen-Pal/cointocoin.git"
+  },
+  "keywords": [
+    "npm",
+    "coin",
+    "cointocoin"
+  ],
+  "author": "Parveen Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parveen-Pal/cointocoin/issues"
+  },
+  "homepage": "https://github.com/Parveen-Pal/cointocoin#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
